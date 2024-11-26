@@ -3,3 +3,25 @@ input[type="button"]{
     padding: 30px;
     background-color: rgb(202, 230, 46);
 }
+#boton{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+}
+.borde-negro{
+    font-weight: bold;
+    font-size: 15px;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 25px;
+    background-color: rgb(187, 0, 0);
+    color: aliceblue;
+    width: 15%;
+    text-align: center;
+}
+
+
